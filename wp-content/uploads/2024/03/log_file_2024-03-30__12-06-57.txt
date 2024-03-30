@@ -1,0 +1,341 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = -1
+Files info:
+Site URL = http://localhost/ankshaastra
+Data file = not defined!
+Widget file = C:\wamp64\www\ankshaastra/wp-content/uploads/2024/03/theme-options.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+preloader_enable : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+preloader_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+back_top_enable : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+back_top_icon : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+global_navbar_build_type : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+global_header_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+global_footer_build_type : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_one_logo : Sidebar does not exist in theme (moving widget to Inactive)
+
+url - No Title - Site does not support widget
+id - No Title - Site does not support widget
+width - No Title - Site does not support widget
+height - No Title - Site does not support widget
+thumbnail - No Title - Site does not support widget
+alt - No Title - Site does not support widget
+title - No Title - Site does not support widget
+description - No Title - Site does not support widget
+
+header_one_navbar_btn : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_one_navbar_btn_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_one_navbar_btn_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_two_logo : Sidebar does not exist in theme (moving widget to Inactive)
+
+url - No Title - Site does not support widget
+id - No Title - Site does not support widget
+width - No Title - Site does not support widget
+height - No Title - Site does not support widget
+thumbnail - No Title - Site does not support widget
+alt - No Title - Site does not support widget
+title - No Title - Site does not support widget
+description - No Title - Site does not support widget
+
+header_two_navbar_btn : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_two_navbar_btn_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_two_navbar_btn_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_three_logo : Sidebar does not exist in theme (moving widget to Inactive)
+
+url - No Title - Site does not support widget
+id - No Title - Site does not support widget
+width - No Title - Site does not support widget
+height - No Title - Site does not support widget
+thumbnail - No Title - Site does not support widget
+alt - No Title - Site does not support widget
+title - No Title - Site does not support widget
+description - No Title - Site does not support widget
+
+header_three_navbar_btn : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_three_navbar_btn_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_three_navbar_btn_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_three_navbar_btn_two : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_three_navbar_btn_two_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_three_navbar_btn_two_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_four_logo : Sidebar does not exist in theme (moving widget to Inactive)
+
+url - No Title - Site does not support widget
+id - No Title - Site does not support widget
+width - No Title - Site does not support widget
+height - No Title - Site does not support widget
+thumbnail - No Title - Site does not support widget
+alt - No Title - Site does not support widget
+title - No Title - Site does not support widget
+description - No Title - Site does not support widget
+
+header_four_navbar_btn : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_four_navbar_btn_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+header_four_navbar_btn_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+breadcrumb_enable : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+breadcrumb_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+background-image - 01 - Site does not support widget
+background-position - No Title - Site does not support widget
+background-repeat - No Title - Site does not support widget
+background-attachment - No Title - Site does not support widget
+background-size - No Title - Site does not support widget
+
+footer_spacing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+footer_top_spacing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+footer_bottom_spacing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+copyright_area_spacing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+copyright_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+copyright_area_top_spacing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+copyright_area_bottom_spacing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_post_posted_by : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_post_posted_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_post_readmore_btn : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_post_readmore_btn_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_post_excerpt_more : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_post_excerpt_length : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_post_posted_by : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_post_posted_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_post_posted_category : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_post_posted_tag : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_post_posted_share : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_subtitle : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_paragraph : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_button_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_spacing_top : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+404_spacing_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_spacing_top : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_spacing_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_spacing_top : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+blog_single_spacing_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+archive_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+archive_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+archive_spacing_top : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+archive_spacing_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+search_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+search_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+search_spacing_top : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+search_spacing_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_spacing_top : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_spacing_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_clients : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_company : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_website : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_category : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_start_date : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+portfolio_sidebar_end_date : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+_body_font : Sidebar does not exist in theme (moving widget to Inactive)
+
+font-family - No Title - Site does not support widget
+font-weight - No Title - Site does not support widget
+font-style - No Title - Site does not support widget
+font-size - No Title - Site does not support widget
+type - No Title - Site does not support widget
+unit - No Title - Site does not support widget
+
+body_font_variant : Sidebar does not exist in theme (moving widget to Inactive)
+
+0 - No Title - Site does not support widget
+1 - No Title - Site does not support widget
+2 - No Title - Site does not support widget
+3 - No Title - Site does not support widget
+
+heading_font_enable : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+heading_font : Sidebar does not exist in theme (moving widget to Inactive)
+
+font-family - No Title - Site does not support widget
+font-weight - No Title - Site does not support widget
+font-style - No Title - Site does not support widget
+type - No Title - Site does not support widget
+unit - No Title - Site does not support widget
+
+heading_font_variant : Sidebar does not exist in theme (moving widget to Inactive)
+
+0 - No Title - Site does not support widget
+1 - No Title - Site does not support widget
+2 - No Title - Site does not support widget
+3 - No Title - Site does not support widget
+4 - No Title - Site does not support widget
+
+global_header_builder_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+global_footer_builder_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+
+
+---ocdi/after_import---
+
